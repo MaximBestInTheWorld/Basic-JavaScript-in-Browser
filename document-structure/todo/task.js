@@ -13,10 +13,10 @@ form.addEventListener('submit', (e) => {
     let tasks = document.querySelectorAll('.task')
 
     tasks.forEach((step) => {
-      step.lastElementChild.addEventListener('click', (e) => {
+      step.lastElementChild.onclick = (e) => {
         e.preventDefault();
         step.remove();
-      })
+      }
     })
     form.reset()
   }
