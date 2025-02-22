@@ -2,10 +2,10 @@
 
 ## Каждый проект лежит в своей папке:
 
-1. [Возможности JavaScript в браузере.](./js-features/)  
+1. [Возможности JavaScript в браузере.](./1.js-features/)  
 
-2. [Объект события.](./event-object/)
+2. [Объект события.](./2.event-object/)
 
-3. [DOM.](./dom/)
+3. [DOM.](./3.dom/)
 
-4. [Изменение структуры HTML-документа.](./document-structure/)
+4. [Изменение структуры HTML-документа.](./4.document-structure/)
